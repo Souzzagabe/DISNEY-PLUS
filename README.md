@@ -1,7 +1,7 @@
 🚀 Tecnologias
 
-HTML
-CSS
+HTML,
+CSS, e
 JavaScript
 
 
