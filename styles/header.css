@@ -6,6 +6,10 @@ header {
   margin-bottom: 64px;
 }
 
+header img {
+  cursor: pointer;
+}
+
 .button__menu {
   display: flex;
   flex-direction: column;
@@ -30,7 +34,7 @@ header {
 }
 
 .button__menu span:last-child {
-  width: 45%;
+  width: 100%;
 }
 
 .button__menu.active span:last-child {
