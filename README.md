@@ -13,4 +13,5 @@ Tecnologias utilizadas:
 HTML: A estrutura básica da aplicação é construída utilizando a linguagem de marcação HTML.
 CSS: O estilo visual da aplicação é definido por meio de CSS, incluindo layout, cores, fontes e animações.
 JavaScript: A lógica da aplicação é implementada em JavaScript, permitindo a interação com o usuário, manipulação dos dados e chamadas à API do TMDB.
-API do TMDB: A aplicação faz requisições assíncronas à API do TMDB para buscar informações sobre os filmes, como título, sinopse, classificação e imagens.
+API do TMDB: A aplicação faz requisições assíncronas à API do TMDB para buscar informações sobre os filmes, como título, sinopse, classificação e imagens
+
